@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 
 For now it is about the Course of Andrew Ng on Coursera 
 
